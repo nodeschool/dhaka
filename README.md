@@ -1,7 +1,14 @@
-NodeSchool Dhaka
-=================
+
+Dhaka Nodeschool
+================
+
+We'd like to build up the community and organize events in Dhaka.
 
 
-Have a question? [Open an issue](https://github.com/nodeschool/dhaka/issues).
+### discussion board
 
-The Website is hosted on the [gh-pages branch](https://github.com/nodeschool/dhaka/tree/gh-pages).
+[view the discussion board](https://github.com/nodeschool/dhaka/issues)
+
+you can use this discussion board to ask questions about nodeschool challenges you are working on
+
+### website? [http://nodeschool.io/dhaka/](http://nodeschool.io/dhaka/)
