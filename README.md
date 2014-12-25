@@ -1,3 +1,4 @@
+[![Gitter chat](https://badges.gitter.im/nodeschool/organizers.png)](https://gitter.im/nodeschool/dhaka)
 
 Dhaka Nodeschool
 ================
