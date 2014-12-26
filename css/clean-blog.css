@@ -353,7 +353,7 @@ a:hover{
 
 @media screen and (min-width : 500px) {
   header h1{
-    background: #303030 url('schoollines.png') center 20px no-repeat;
+    background: #303030 url('../img/schoollines.png') center 20px no-repeat;
     background-size: auto 120px;
   }
   header h1 .container{
