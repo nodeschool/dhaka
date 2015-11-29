@@ -1,17 +1,18 @@
 [![Gitter chat](https://badges.gitter.im/nodeschool/organizers.png)](https://gitter.im/nodeschool/dhaka)
 
-Dhaka Nodeschool
+NodeSchool Dhaka
 ================
 
 We'd like to build up the community and organize events in Dhaka.
 
 
-### discussion board
+### Discussion board
 
-[view the discussion board](https://github.com/nodeschool/dhaka/issues)
+[Get involved in the dicussions here](https://github.com/nodeschool/dhaka/issues)
 
-you can use this discussion board to ask questions about nodeschool challenges you are working on
+You can use this discussion board to ask questions about NodeSchool workshops you are working on
 
-### website? [http://nodeschool.io/dhaka/](http://nodeschool.io/dhaka/)
+### Website  
+[http://nodeschool.io/dhaka/](http://nodeschool.io/dhaka/)
 
 
