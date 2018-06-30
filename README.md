@@ -14,5 +14,3 @@ You can use this discussion board to ask questions about NodeSchool workshops yo
 
 ### Website  
 [http://nodeschool.io/dhaka/](http://nodeschool.io/dhaka/)
-
-
